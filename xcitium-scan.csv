@@ -1,0 +1,12 @@
+Tenant Id,Tenant Name,Cloud Account,Last Scan Date,Status
+321,proddenterpriseeuqayopmailc,aws: 788471067825,2024-04-24 01:03:15.369437+00:00,finished
+321,proddenterpriseeuqayopmailc,gcp: accuknox-cnapp,2024-04-24 01:00:17.182952+00:00,finished
+321,proddenterpriseeuqayopmailc,azure: 58296716-2672-49c8-956f-2d9069f0cf38,2024-04-24 01:03:14.970627+00:00,finished
+40,AccuKnox Org,aws: 788471067825,2024-04-24 01:04:15.471091+00:00,finished
+40,AccuKnox Org,azure: 58296716-2672-49c8-956f-2d9069f0cf38,2024-04-24 01:03:14.993021+00:00,finished
+40,AccuKnox Org,gcp: accuknox-cnapp,2024-04-24 01:06:18.586748+00:00,finished
+1354,royicpuresightcom,aws: 729085987283,2024-04-24 01:49:27.504155+00:00,finished
+325,prodenterpriseusqayopmailco,aws: 788471067825,2024-04-24 01:34:11.187394+00:00,finished
+325,prodenterpriseusqayopmailco,gcp: accuknox-cnapp,2024-04-24 01:34:51.397029+00:00,finished
+325,prodenterpriseusqayopmailco,azure: 58296716-2672-49c8-956f-2d9069f0cf38,2024-04-24 01:37:13.039691+00:00,finished
+2822,edrfireagewin,aws: 380832906906,2024-04-24 01:40:20.290481+00:00,finished
